@@ -6,3 +6,6 @@ if image is None:
 
 else:
     print("Image loaded succesfully")
+
+
+#image = cv2.imread("imagename.jpg", flag)
