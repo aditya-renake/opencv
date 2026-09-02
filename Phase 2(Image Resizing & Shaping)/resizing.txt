@@ -1,0 +1,4 @@
+#resized = cv2.resize(src, dsize, fx, fy, interpolation)
+#resized = variable, cv2 = library, src = original picture, dsize = dimensions in pixels ( first width, second height)
+#fx & fy = are scale factors which are optional, interpolation = control quality which is optional
+
