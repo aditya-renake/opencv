@@ -17,4 +17,4 @@ else:
     cv2.imwrite("line on image.png", image) #save the image with line       
 
     cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    cv2.destroyAllWindows()  
